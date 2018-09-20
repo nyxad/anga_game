@@ -1,0 +1,40 @@
+//////////////////////
+Ideas for the game
+//////////////////////
+
+-------------------------
+Genre: 2D/3D Platformer Scroller
+* levels are non-linear
+-------------------------
+
+-------------------------
+Art: Voxel art
+-------------------------
+
+-------------------------
+Lore:
+Pink Guy goes insane; tries to act normal
+* gradually gets more insane a the game goes on.
+  * player needs to find a way to stay sane
+* game randomly makes challenges for the player
+  * players have to beat the challenge properly without appearing "weird"
+  * if the player's "weird-meter" gets to 100%, they die
+-------------------------
+
+-------------------------
+Lore 2:
+* you are an intern, and you have to complete tasks without appearing weird
+* everytime you get too weird, you get fired. Or you can pass the assignment, and go to the next internship.
+-------------------------
+
+-------------------------
+Lore 3:
+* running a hotel
+* start with small hotel, and gradually build up to a bigger hotel
+* customers will constantly have requestions of things like repairs, room service, etc. tht the player has to fulfill
+-------------------------
+
+-------------------------
+Combat Mechanics:
+
+-------------------------
